@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RawenBeji
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning machine learning and many programming languages 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a software developer and UX/UI Designer
+- 🌱 I’m currently working as a freelancer and also studying second-year bachelor's in computer science 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me : rawenbejiw@gmail.com
 
 <!---
